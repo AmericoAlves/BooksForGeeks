@@ -5,9 +5,6 @@ Collection of useful books for Geeks. Not a Geek? Be a Geek!<br>
   <a href="https://saythanks.io/to/KartSriv">
       <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
   </a>
-  <a href="https://www.paypal.me/KartSriv">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
 </p>
 
 [![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://github.com/KartSriv/)
